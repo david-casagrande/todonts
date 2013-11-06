@@ -1,0 +1,13 @@
+{
+  "name": "todonts-web",
+  "version": "0.0.0",
+  "dependencies": {
+    "ember": "1.0.0",
+    "ember-data-shim": "1.0.0-beta.2",
+    "foundation": "4.3.2",
+    "momentjs": "2.4.0"
+  },
+  "devDependencies": {
+    "ember-mocha-adapter": "0.1.2"
+  }
+}
