@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-TodontsApi::Application.load_tasks
+Todonts::Application.load_tasks
